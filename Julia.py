@@ -258,4 +258,4 @@ async def play(ctx, url):
 
 
 
-bot.run('MTEyNjY1NjU5NDIzMTQzMTI3OQ.Gpirwc.ng293_SbYLzkwKG5WVleVb28zGsC3UvcmP1tCE')
+bot.run('[Token]')
